@@ -1,0 +1,7 @@
+name: v3-product-api
+version: "1.0.0"
+description: Search V3 products and retrieve product, SKU, stock, price, and image details.
+requires_env:
+  - V3_API_BASE_URL
+  - V3_API_TOKEN
+
